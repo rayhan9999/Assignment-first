@@ -73,6 +73,19 @@
     line-height: 23px;
     margin-top: 43px;
   }
+  .hero-button{
+    width: 160px;
+    height: 64px;
+    font-size: 20px;
+line-height: 23px;
+color: #ffffff;
+    margin-top: 7px;
+
+
+background: #F15B22;
+border-radius: 5px;
+    
+  }
   .my-failures {
     display: flex;
     justify-content: center;
