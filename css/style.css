@@ -1,0 +1,93 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header part style */
+header {
+    background-image: url("../img/banner/banner1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 90vh;
+}
+
+/* banner section part style */
+.header-blog {
+    padding: 100px 200px;
+    text-align: right;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 30px;
+}
+
+.banner-btn {
+    width: 160px;
+    height: 64px;
+    color: white;
+    background: #F15B22;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+}
+/* person section part style */
+.person-section {
+    display: flex;
+    align-items: center;
+    margin-top: 130px;
+}
+
+.person-section img {
+    width: 550px;
+}
+
+.person-blog {
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.person-blog-title,
+.web-mission-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 24px;
+}
+
+.person-blog-description,
+.mission-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+ul {
+    margin-top: 16px;
+}
+
+ul li {
+    list-style: none;
+    color: #444343;
+    line-height: 26px;
+}
+
+.fa-check {
+    color:
+        #16D887;
+}

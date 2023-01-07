@@ -5,7 +5,40 @@
   box-sizing: border-box;
 }
 
-.hero-container{
+/* banner section part style */
+.header-blog {
+  padding: 100px 200px;
+  text-align: right;
+}
+
+.banner-title {
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 76px;
+  text-align: right;
+}
+
+.banner-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+  margin-top: 24px;
+  margin-bottom: 30px;
+}
+
+.banner-btn {
+  width: 160px;
+  height: 64px;
+  color: white;
+  background: #F15B22;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  border: none;
+}
+
+/* .hero-container{
     display: flex;
     align-items: center;
     background-image: url(./img/banner/banner1.png);
@@ -20,18 +53,6 @@
 
 }
 
-
-.header {
-  background-image: url("img/banner/banner1.png");
-  background-size:cover;
-  background-repeat:no-repeat;
-  width: 88%;
-  height: 100vh;
-  display: flex;
-  justify-content: end;
-  align-items: center;
-  
-}
 .hero-text {
     width: 15%;
     text-align:right;
@@ -43,17 +64,20 @@
     font-weight: 700;
     font-size: 65px;
     line-height: 76px;
-    color:black
+    color:black;
+    line-height:30px;
+    
   }
   .hero-text p {
     margin-top: 24px;
-    font-family: "Work Sans";
+    font-family: "Work Sans";  
     font-weight: 300;
-    font-size: 55px;
+    font-size: 80px;
     line-height: 36px;
     text-align: right;
     color: #ffffff;
     width: 494px;
+    padding-bottom:50px;
     
     
     
@@ -86,7 +110,7 @@ color: #ffffff;
 
 
 background: #F15B22;
-border-radius: 5px;
+border-radius: 5px; */
     
   }
   .my-failures {
